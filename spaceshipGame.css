@@ -1,20 +1,7 @@
 body {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     margin: 0;
     background: black;
     overflow: hidden;
-}
-#background {
-    background-image: url("https://img.freepik.com/premium-vector/space-background-with-stars-vector-illustration_97886-319.jpg");
-    height: 100em;
-}
-
-@keyframes move-background {
-    from {
-    background-position: 0% 0%;
-    }
-    to {
-    background-position: 5% 100%;
-    }
 }
